@@ -7,7 +7,7 @@ import math
 Real-time object trajectory prediction with a Kalman filter.
 
 How it works:
-- Detects a bright GREEN object from the camera.
+- Detects a bright PINK object from the camera.
 - Green = measured position
 - Blue = Kalman filtered position
 - Red = future predicted trajectory
